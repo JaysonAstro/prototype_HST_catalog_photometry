@@ -4,7 +4,6 @@ example with functions based on https://qosmicqi.github.io/XRBID/chapters/photom
 and https://www.astropy.org/ccd-reduction-and-photometry-guide/v/pdev/notebooks/photometry/00.00-Preface.html
 
 
-TO DOs: 
-- transform image and error from electron/s to Jy
+To dos:
 - need to include valid mask based on weight image or other metric
-- redefine circular apertures for ```aperture_photometry```
+- function to transform abmag to vegamag
